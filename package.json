@@ -1,6 +1,6 @@
 {
-  "name": "autofill-event",
-  "version": "1.0.0",
+  "name": "@onshape/autofill-event",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/tbosch/autofill-event.git"
